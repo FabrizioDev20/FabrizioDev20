@@ -24,11 +24,10 @@
 > 🖼️ Check out the **screenshots** and **GIFs** in each repository’s README to see the apps in action!
 
 ## 📫 How to reach me
-- Email: fabrizio.tuemail@gmail.com  
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- Instagram: [@tuusuario](https://www.instagram.com/tuusuario)
+- Email: fabriziodev20@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/fabrizio-joel-berrospi-perez-84923b370/)
 
 ## 📈 Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDev20"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FabrizioDev20&show_icons=true&count_private=true"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioDev20"/></p>
