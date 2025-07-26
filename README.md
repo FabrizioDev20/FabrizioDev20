@@ -15,9 +15,9 @@
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://developer.apple.com/xcode/swiftui/)
 
 ## 📂 Projects
-- 🏆 **Hero App** – CRUD app built with **Jetpack Compose (Android)** and **SwiftUI (iOS)** [(View Repo)](URL_DEL_REPO)
-- 🍎 **Order Juice** – A minimalist juice ordering app for both platforms with SwiftUI [(View Repo)](URL_DEL_REPO)
-- 👤 **Fotocheck** – Employee ID card generator using SwiftUI , showcasing UI layouts [(View Repo)](URL_DEL_REPO)
+- 🏆 **Hero App** – CRUD app built with **Jetpack Compose (Android)** and **SwiftUI (iOS)** [(View Repo)](https://github.com/FabrizioDev20/HeroApp)
+- 🍎 **Order Juice** – A minimalist juice ordering app for both platforms with SwiftUI [(View Repo)](https://github.com/FabrizioDev20/OrderJuice)
+- 👤 **Fotocheck** – Employee ID card generator using SwiftUI , showcasing UI layouts [(View Repo)](https://github.com/FabrizioDev20/Fotocheck)
 
 🖼️ Check out the screenshots and GIFs in each repository’s README to see the apps in action 
 
