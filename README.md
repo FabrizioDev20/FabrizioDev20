@@ -16,7 +16,7 @@
 
 ## 📂 Projects
 - 🏆 **Hero App** – CRUD app built with **Jetpack Compose (Android)** and **SwiftUI (iOS)** [(View Repo)](URL_DEL_REPO)
-- 🍕 **Pizza Shop** – UI concept for a pizza app using **Jetpack Compose** and **SwiftUI** [(View Repo)](URL_DEL_REPO)
+- 🍕 **Pizza Shop** – UI concept for a pizza app using **Jetpack Compose** [(View Repo)](URL_DEL_REPO)
 - 🍎 **Order Juice** – A minimalist juice ordering app for both platforms with Compose and SwiftUI [(View Repo)](URL_DEL_REPO)
 - 👤 **Fotocheck** – Employee ID card generator using **Compose & SwiftUI**, showcasing UI layouts [(View Repo)](URL_DEL_REPO)
 
