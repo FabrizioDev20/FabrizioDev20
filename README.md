@@ -2,10 +2,9 @@
 
 ## 👨‍💻 About me
 <p>
-  📱 I’m currently a mobile app development intern (Android & iOS)</br>
   🚀 I’m passionate about building mobile apps with Kotlin + Jetpack Compose & SwiftUI</br>
   🧠 Always learning: MVVM, Clean Architecture, API integration, Room DB</br>
-  💡 I believe in building with purpose and heart — mobile development is my path</br>
+  💡  I believe in building with purpose and heart — mobile development is my path</br>
 </p>  
 
 ## 🔧 Skills
@@ -16,10 +15,10 @@
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://developer.apple.com/xcode/swiftui/)
 
 ## 📂 Projects
-- 🏆 **Hero App** - Jetpack Compose + Room + Retrofit + MVVM [(View Repo)](URL_DEL_REPO)
-- 🍕 **Pizza Shop** - Android UI Concepts with Compose [(View Repo)](URL_DEL_REPO)
-- 🍎 **Order Juice** - SwiftUI Notes-style app [(View Repo)](URL_DEL_REPO)
-- 👤 **Fotocheck** - Showcasing Android Compose components [(View Repo)](URL_DEL_REPO)
+- 🏆 **Hero App** - [(View Repo)](URL_DEL_REPO)
+- 🍕 **Pizza Shop** - [(View Repo)](URL_DEL_REPO)
+- 🍎 **Order Juice** - [(View Repo)](URL_DEL_REPO)
+- 👤 **Fotocheck** - [(View Repo)](URL_DEL_REPO)
 
 > 🖼️ Check out the **screenshots** and **GIFs** in each repository’s README to see the apps in action!
 
