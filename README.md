@@ -16,16 +16,16 @@
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://developer.apple.com/xcode/swiftui/)
 
 ## 📂 Projects
-- 🏆 **Hero Cards App** - Jetpack Compose + Room + Retrofit + MVVM [(View Repo)](URL_DEL_REPO)
-- 🌈 **Cute UI App** - Android UI Concepts with Compose [(View Repo)](URL_DEL_REPO)
-- 🍎 **iOS Notes Clone** - SwiftUI Notes-style app [(View Repo)](URL_DEL_REPO)
-- 🎨 **Widget Gallery App** - Showcasing Android Compose components [(View Repo)](URL_DEL_REPO)
+- 🏆 **Hero App** - Jetpack Compose + Room + Retrofit + MVVM [(View Repo)](URL_DEL_REPO)
+- 🍕 **Pizza Shop** - Android UI Concepts with Compose [(View Repo)](URL_DEL_REPO)
+- 🍎 **Order Juice** - SwiftUI Notes-style app [(View Repo)](URL_DEL_REPO)
+- 👤 **Fotocheck** - Showcasing Android Compose components [(View Repo)](URL_DEL_REPO)
 
 > 🖼️ Check out the **screenshots** and **GIFs** in each repository’s README to see the apps in action!
 
 ## 📫 How to reach me
 - Email: fabriziodev20@gmail.com 
-- LinkedIn: (https://www.linkedin.com/in/fabrizio-joel-berrospi-perez-84923b370/)
+- LinkedIn: https://www.linkedin.com/in/fabrizio-joel-berrospi-perez-84923b370/
 
 ## 📈 Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDev20"/></p>
