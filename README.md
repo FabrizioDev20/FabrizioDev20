@@ -20,7 +20,7 @@
 - 🍎 **Order Juice** – A minimalist juice ordering app for both platforms with Compose and SwiftUI [(View Repo)](URL_DEL_REPO)
 - 👤 **Fotocheck** – Employee ID card generator using **Compose & SwiftUI**, showcasing UI layouts [(View Repo)](URL_DEL_REPO)
 
-> 🖼️ Check out the **screenshots** and **GIFs** in each repository’s README to see the apps in action!
+🖼️ Check out the screenshots and GIFs in each repository’s README to see the apps in action — many of these projects were dedicated to someone special who, without knowing it, helped me discover my true passion for mobile app development.
 
 ## 📫 How to reach me
 - Email: fabriziodev20@gmail.com 
