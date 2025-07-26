@@ -15,8 +15,8 @@
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://developer.apple.com/xcode/swiftui/)
 
 ## 📂 Projects
-- 🏆 **Hero App** – CRUD app built with **Jetpack Compose (Android)** and **SwiftUI (iOS)** using Room, Retrofit & MVVM [(View Repo)](URL_DEL_REPO)
-- 🍕 **Pizza Shop** – UI concept for a pizza app using **Jetpack Compose** and **SwiftUI** with animations and components [(View Repo)](URL_DEL_REPO)
+- 🏆 **Hero App** – CRUD app built with **Jetpack Compose (Android)** and **SwiftUI (iOS)** [(View Repo)](URL_DEL_REPO)
+- 🍕 **Pizza Shop** – UI concept for a pizza app using **Jetpack Compose** and **SwiftUI** [(View Repo)](URL_DEL_REPO)
 - 🍎 **Order Juice** – A minimalist juice ordering app for both platforms with Compose and SwiftUI [(View Repo)](URL_DEL_REPO)
 - 👤 **Fotocheck** – Employee ID card generator using **Compose & SwiftUI**, showcasing UI layouts [(View Repo)](URL_DEL_REPO)
 
