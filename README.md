@@ -2,8 +2,6 @@
 
 ## 👨‍💻 About me
 <p>
-  🚀 I’m passionate about building mobile apps with Kotlin + Jetpack Compose & SwiftUI</br>
-  🧠 Always learning: MVVM, Clean Architecture, API integration, Room DB</br>
   💡  I believe in building with purpose and heart</br>
 </p>  
 
