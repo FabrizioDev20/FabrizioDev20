@@ -21,9 +21,6 @@
 
 🖼️ Check out the screenshots and GIFs in each repository’s README to see the apps in action 
 
-## 📫 How to reach me
-- Email: fabriziodev20@gmail.com 
-
 ## 📈 Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDev20"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FabrizioDev20&show_icons=true&count_private=true"/></p>
