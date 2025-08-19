@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fabrizio
 
-💡  I believe in building with purpose and heart</br>
+💡  I believe in building with purpose and heart
  
 # 💻 Tech Stack:
 ## Languages
