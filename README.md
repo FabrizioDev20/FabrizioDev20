@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Fabrizio
-
 <p>I believe in building with purpose and heart.</p>
  
 # 💻 Tech Stack:
