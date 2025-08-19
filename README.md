@@ -23,7 +23,6 @@
 
 ## 📫 How to reach me
 - Email: fabriziodev20@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/fabrizio-joel-berrospi-perez-84923b370/
 
 ## 📈 Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FabrizioDev20"/></p>
